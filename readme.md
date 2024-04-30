@@ -1,13 +1,24 @@
-** Mohammad Jahanbakhshi **
+**Mohammad JAHANBAKHSHI**
 
 # Introduction
 Hello there!
 
-Welcome to my GitHub portfolio. I'm *Mohammad Jahanbakhshi*, thrilled to have you here!
+Welcome to my GitHub portfolio. I'm Mohammad Jahanbakhshi, excited to showcase a collection of projects that highlight my proficiency in data analysis and visualization.
 
-Within this repository, you'll discover a multitude of projects showcasing my expertise in various areas such as data analysis, statistical modeling, and data visualization, among others. The majority of my work is conducted using Python programming language in platforms like Jupyter Notebook, where I leverage tools like Pandas, NumPy, Seaborn, and Matplotlib.
+Within this repository, you'll find an array of projects spanning various domains, each demonstrating my skills and expertise in leveraging data to derive insights and drive informed decision-making.
 
-In the sections ahead, I'll provide a glimpse into my journey with data and offer brief insights into each project housed within this repository. Let's delve in!
+Let's dive into the projects:
 
-About Me & My Data Journey
-Currently, I'm honing my skills as a Data Analyst at Getir Germany GmbH, where I've been instrumental in implementing data-driven strategies to optimize operational and financial performance. My passion for data was ignited during my academic pursuits, culminating in a Master's degree in Electrical Engineering from the University of Tehran. Since then, I've delved deep into the realms of data analytics, acquiring certifications such as the Advanced Data Analytics Professional Certificate from Google. My journey has been characterized by a thirst for knowledge and a commitment to leveraging data to drive meaningful insights and solutions.
+1. **Google Analytics, BigQuery and Looker Data Studio**: I've crafted a dynamic dashboard using BigQuery and Looker Data Studio, offering valuable insights into user behavior and engagement.
+
+2. **Taxi Fares Prediction**: Using Python, I've developed a Multiple Linear Regression Model to accurately predict NYC taxi fares, showcasing my analytical prowess.
+
+3. **Sales Dashboard**: Utilizing Tableau, I've created a comprehensive sales dashboard based on a Tableau educational dataset, illustrating my data visualization skills.
+
+4. **Human Resources Project**: In this Python project, I provide data-driven suggestions for HR, highlighting my ability to derive actionable insights from data.
+
+5. **Air Quality Index**: Through Python analysis, I delve into the Air Quality Index (AQI) for Ripple Renewable Energy (RRE) States, showcasing my data analysis capabilities.
+
+6. **A/B Testing**: Using Python, I analyze the relationship between fare amount and payment type through an A/B test, demonstrating my proficiency in statistical analysis.
+
+These projects encapsulate my journey and passion for data analysis, and I'm excited to share them with you. Let's explore further!
